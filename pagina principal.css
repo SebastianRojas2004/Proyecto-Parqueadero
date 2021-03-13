@@ -1,0 +1,56 @@
+/*opciones generales*/
+body{background-color: #0a0c1bbd;
+    
+}
+
+/*encabezado*/
+.header{
+    border-color:solid;
+    width: 100%;
+    color: #EABE3F;
+    padding:10px;  
+    background-position:center;
+    background: #1a1916;
+}
+div{
+    
+    border:rgb(43, 36, 36);
+    padding: 10px;
+    float: left;
+    
+}
+div.usuario{
+    float: right;
+}
+div.modulo{
+    background: #080716;
+}
+img.imagen1{
+margin: 0%;
+right: 0%;
+left: 0%;
+float:right;
+}
+img.imagen2{
+    float: left;
+}
+/*cuerpo*/
+div.aside{
+    color: #EABE3F;
+    background: #181716;
+    border: 5px solid black ;
+    margin: 10px 10px;
+    padding: 10px;
+    width: 50%;
+    position: relative;
+}
+div aside.aside{
+    color: #EABE3F;
+    background: #181716;
+    border: 5px solid black ;
+    margin: 10px 10px;
+    padding: 10px;
+    width: 40%;
+    float: right;  
+}
+/*pie de pagina*/
